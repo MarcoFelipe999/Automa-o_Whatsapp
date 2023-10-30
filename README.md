@@ -1,0 +1,2 @@
+# Automa-o_Whatsapp
+Este projeto consiste na construção de um bot capaz de automatizar respostas no WhatsApp. As mensagens serão configuráveis pelo cliente, sendo especialmente direcionadas para negócios como restaurantes, que enfrentam uma alta demanda de mensagens. O bot responderá de forma automatizada, fornecendo informações sobre o cardápio, facilitando a realização de pedidos e, posteriormente, notificando sobre o status da entrega.
